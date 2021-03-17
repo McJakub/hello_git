@@ -1,6 +1,7 @@
 # hello_git
 Git repository
-#Credits
+
+# Credits
 **bold**
 *italics*
 ~~test~~
